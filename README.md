@@ -49,6 +49,20 @@ pip install -r requirements.txt
 
 Этот проект лицензирован под MIT License - подробности см. в файле LICENSE.
 
+# Датасет
+
+Датасет содержит изображения следующих известных личностей:
+
+    Билл Гейтс
+    Илон Маск
+    Джефф Безос
+    Марк Цукерберг
+    Стив Джобс
+
+Вы можете скачать датасет по следующей ссылке:
+
+[Download Dataset] (https://drive.google.com/file/d/120xqh0mYtYZ1Qh7vr-XFzjPbSKivLJjA/view?pli=1)
+
 # Контакты
 
 Для вопросов и предложений вы можете связаться со мной через GitHub или по электронной почте: aleksandr.denissov@brave.ee
