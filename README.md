@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 Вы можете скачать датасет по следующей ссылке:
 
-[Download Dataset] (https://drive.google.com/file/d/120xqh0mYtYZ1Qh7vr-XFzjPbSKivLJjA/view?pli=1)
+[Download Dataset](https://drive.google.com/file/d/120xqh0mYtYZ1Qh7vr-XFzjPbSKivLJjA/view?pli=1)
 
 # Контакты
 
